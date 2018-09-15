@@ -1,0 +1,6 @@
+[package]
+name = "puttycolors"
+version = "0.1.0"
+authors = ["Aaron Loucks <aloucks@cofront.net>"]
+
+[dependencies]
